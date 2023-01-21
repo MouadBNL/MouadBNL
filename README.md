@@ -1,11 +1,7 @@
 ### Hello, I am Mouad Benali 👋
 
-**MouadBNL/MouadBNL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am **Benali Mouad**, a software engineering student with a passion for web development. I am highly skilled in **Laravel/PHP**, **NodeJS**, **Vue.js**, and **TailwindCSS**, and am eager to put my knowledge to use in a professional setting. I have experience creating dynamic and responsive web applications, and I am always looking to learn and grow as a developer.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a competitive programing platform for our college.
-- 🌱 I’m currently learning Laravel and Vuejs.
 - 📫 How to reach me: Email: mouadbnl.2k01@gmail.com, Twitter [@m_owhut](https://twitter.com/m_owhut).
 <img src="https://github-readme-stats.vercel.app/api?username=MouadBNL&&show_icons=true&title_color=ffffff&icon_color=7F00FF&text_color=ffffff&bg_color=151515"/>
 <!--
